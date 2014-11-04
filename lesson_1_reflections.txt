@@ -1,4 +1,2 @@
 	this is a reflection
-	updated
-	updated again
-	
+	How can you use the staging are to make sure you have one commit per logical change?
